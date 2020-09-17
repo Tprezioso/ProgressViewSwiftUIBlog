@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9F4F2ABE25105DD300BEECD5 /* LinearProgressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F4F2ABD25105DD300BEECD5 /* LinearProgressView.swift */; };
 		9F99F3AD250ED3D4009D4BF6 /* ProgressViewBlogApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F99F3AC250ED3D4009D4BF6 /* ProgressViewBlogApp.swift */; };
 		9F99F3AF250ED3D4009D4BF6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F99F3AE250ED3D4009D4BF6 /* ContentView.swift */; };
 		9F99F3B1250ED3D4009D4BF6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9F99F3B0250ED3D4009D4BF6 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9F4F2ABD25105DD300BEECD5 /* LinearProgressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LinearProgressView.swift; sourceTree = "<group>"; };
 		9F99F3A9250ED3D4009D4BF6 /* ProgressViewBlog.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ProgressViewBlog.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F99F3AC250ED3D4009D4BF6 /* ProgressViewBlogApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressViewBlogApp.swift; sourceTree = "<group>"; };
 		9F99F3AE250ED3D4009D4BF6 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -54,6 +56,7 @@
 			children = (
 				9F99F3AC250ED3D4009D4BF6 /* ProgressViewBlogApp.swift */,
 				9F99F3AE250ED3D4009D4BF6 /* ContentView.swift */,
+				9F4F2ABD25105DD300BEECD5 /* LinearProgressView.swift */,
 				9F99F3B0250ED3D4009D4BF6 /* Assets.xcassets */,
 				9F99F3B5250ED3D4009D4BF6 /* Info.plist */,
 				9F99F3B2250ED3D4009D4BF6 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9F4F2ABE25105DD300BEECD5 /* LinearProgressView.swift in Sources */,
 				9F99F3AF250ED3D4009D4BF6 /* ContentView.swift in Sources */,
 				9F99F3AD250ED3D4009D4BF6 /* ProgressViewBlogApp.swift in Sources */,
 			);
